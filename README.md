@@ -1,1 +1,4 @@
-# 2023-learn-git
+## 2023-learn-git
+
+[Git과 Github의 이해](./Git과 Github의 이해)
+
